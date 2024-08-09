@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang = "pt-br">
+	<head> 
+        <meta charset="UTF-8">
+        <title> Do campo á cidade, colhendo oportunidades </title>
+        <link rel="stylesheet" href="style (1).css">
+        
+    </head>
+    <body>
+        <h1>Do campo á cidade, colhendo oportunidades</h1>
+        <p>
+            &nbsp; Nas áreas rurais, a vida muitas vezes gira em torno da agricultura e de atividades relacionadas. No entanto, a mecanização e a modernização da agricultura reduziram a necessidade de mão-de-obra, levando muitos a buscar novas oportunidade nas cidades. As áreas urbanas oferecem uma variedade maior de empregos, desde serviços até indústrias, além e acesso a melhores infraestruturas, como escolas, hospitais, e redes de transporte. </p>
+        <p>
+            &nbsp; Para que essa migração seja bem-sucedida e sustentável, é crucial que haja políticas públicas que apoiem a integração dos migrantes urbanos, promovam a quaalificação profisional, e garantam o desenvolvimento equilibrado tanto das áreas rurais quanto urbanas. Investimntos em educação,saúde, habitação e infraestrutura são essenciais para criar oportunidades tanto no campo quanto na cidae, peermitindo que as pessoas façam escolhas informadas e contribuam para o desenvolvimento econômico e social de suas comunidaes. </p>
+            <img src="https:
+body {
+    background-color: rgb(202, 250, 244);
+}
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 38px;
+    text-align: center;
+}
+p {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+} 
+
+img {
+    position: relative;
+    animation-name: mexer;
+    animation-duration: 4s;
+}
+@keyframes mexer {
+    0%   {left:0%; }
+    20%  { left:20%; }
+    40%  { left:40%; }
+    60%  { left:60%; }
+    80%  { left:80%; }
+    100% { left:0%; }
+}
